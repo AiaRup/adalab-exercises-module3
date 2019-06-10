@@ -1,0 +1,14 @@
+{
+  "name": "intro-testing",
+  "version": "1.0.0",
+  "description": "first testing in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "aia ruspom",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
